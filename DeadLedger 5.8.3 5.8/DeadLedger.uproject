@@ -1,6 +1,10 @@
 {
 	"FileVersion": 3,
+<<<<<<< HEAD
 	"EngineAssociation": "{10FB5B33-4E45-2441-7AB7-329A94AA7D1C}",
+=======
+	"EngineAssociation": "{0606E34C-4A3F-4493-14BD-E5B9A4F49C13}",
+>>>>>>> parent of 33b3845 (Market blockout update)
 	"Category": "",
 	"Description": "",
 	"Plugins": [
