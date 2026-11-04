@@ -2,6 +2,7 @@
 	"FileVersion": 3,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	"EngineAssociation": "{10FB5B33-4E45-2441-7AB7-329A94AA7D1C}",
 =======
 	"EngineAssociation": "{0606E34C-4A3F-4493-14BD-E5B9A4F49C13}",
@@ -9,6 +10,9 @@
 =======
 	"EngineAssociation": "5.8",
 >>>>>>> parent of a1aa1cf (MM changes, button style change, start to damage pool return)
+=======
+	"EngineAssociation": "5.8",
+>>>>>>> parent of f01d397 (Enemy Different Attacks)
 	"Category": "",
 	"Description": "",
 	"Plugins": [
